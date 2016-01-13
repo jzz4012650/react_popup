@@ -1,2 +1,2 @@
-# react_starter
-my usual react starter
+# react_popup
+simple react popup
