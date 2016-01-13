@@ -1,0 +1,189 @@
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td {
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+table {
+  border-collapse: separate;
+  border-spacing: 0;
+  vertical-align: middle;
+}
+caption,
+th,
+td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+a img {
+  border: none;
+}
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section,
+summary,
+main {
+  display: block;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  outline: 0;
+  font-weight: inherit;
+  font-style: inherit;
+  font-family: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+audio,
+canvas,
+video {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+}
+audio:not([controls]),
+[hidden] {
+  display: none;
+}
+.button {
+  display: inline-block;
+  *display: inline;
+  *zoom: 1;
+  margin: 0 .5em 0 0;
+  font-size: 12px;
+  line-height: 1;
+  text-align: center;
+  padding: 0.5em 1em;
+  background: #FFF;
+  border: solid 1px #CCC;
+  border-radius: 3px;
+}
+.button.submit {
+  background: #82bd3e;
+  border-color: #82bd3e;
+  color: #FFF;
+}
+.react-popup-wrapper .react-popup-mask,
+.react-popup-wrapper .react-popup-outter {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.react-popup-wrapper .react-popup-mask {
+  background: rgba(0, 0, 0, 0.5);
+}
+.react-popup-wrapper .react-popup {
+  margin: 30px auto;
+  background: #FFF;
+  box-shadow: 0 2px 30px 0px rgba(0, 0, 0, 0.4);
+  border-radius: 3px;
+}
+.react-popup-wrapper .react-popup .react-popup-header {
+  height: 34px;
+  line-height: 34px;
+  padding: 0 1em;
+  border-bottom: solid 1px #CCC;
+  font-size: 14px;
+}
+.react-popup-wrapper .react-popup .react-popup-header h3 {
+  font-size: 14px;
+}
+.react-popup-wrapper .react-popup .react-popup-header .react-popup-close {
+  float: right;
+  cursor: pointer;
+  font-weight: bold;
+  font-style: normal;
+}
+.react-popup-wrapper .react-popup .react-popup-footer {
+  font-size: 12px;
+  padding: .5em 1em;
+  text-align: right;
+}
+.react-popup-wrapper .react-popup .react-popup-footer button:last-child {
+  margin: 0;
+}
+body {
+  font-family: STHeiti, "Microsoft YaHei", Aria, sans-serif;
+  color: #666;
+}
+
+/*# sourceMappingURL=main.css.map*/
